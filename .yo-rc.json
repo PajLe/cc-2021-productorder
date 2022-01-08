@@ -36,6 +36,8 @@
     "nativeLanguage": "en",
     "jwtSecretKey": "NGQyZmE0YjJjNTBmM2MyYjcyOGI4ZGY0ODJjMmQwYjA1Yjk5NzFiN2FiZGQwNDdkMTZhY2FjM2ZiNzMxYWE4OWE2MDUwYjUxZjQ1MzM0NjQwMjI0NTFiMWIwMzBlZTU2MmU1MTg4MjBhZjU5YTUyZTNjZTI3Mjg2ZmJiZDQ2OWI=",
     "languages": ["en", "fr"],
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Product", "ProductCategory", "Customer", "ProductOrder", "OrderItem"],
+    "lastLiquibaseTimestamp": 1641652697000
   }
 }
